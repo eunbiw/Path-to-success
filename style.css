@@ -149,14 +149,6 @@ nav li{
 #step {
     background-color: var(--pink);
 }
-
-body {
-    display: flex;
-    justify-content: center; 
-    margin: 0;
-    background-color: var(--lavender);
-}
-
 .container {
     width: 450px;
     max-width: 450px;
@@ -164,3 +156,10 @@ body {
     box-sizing: border-box;
     background-color: var(--purple);
 }
+body {
+    display: flex;
+    justify-content: center; 
+    margin: 0;
+    background-color: var(--lavender);
+}
+
