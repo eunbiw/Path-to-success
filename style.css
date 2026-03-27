@@ -181,4 +181,22 @@ header p {
     font-size: 14px;
 }
 section {
-    padding: 1.5rem 1rem;
+    padding: 24px 16px; }
+article {
+    border-radius: 12px;
+    padding: 16px; 
+    margin: 16px 0; 
+}
+
+article h4 {
+    margin-bottom: 8px; 
+}
+article p {
+    font-size: 14px; 
+    line-height: 1.4;
+}
+article span {
+    font-size: 32px; 
+    display: block;
+    margin-bottom: 8px; 
+}
