@@ -248,7 +248,11 @@ a.button {
     border: 2px solid var(--dark-gray);
     transition: all 0.2s ease;
     cursor: pointer;
-    width: auto;                     /* ensure it doesn’t stretch */
+    width: auto;                     
+}
+.button-wrapper {
+    display: block;        
+    text-align: left;      
 }
 footer {
     text-align: center;
