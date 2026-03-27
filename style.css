@@ -22,14 +22,17 @@ table, caption, tbody, tfoot, thead, tr, th, td,
 article, aside, canvas, details, embed, 
 figure, figcaption, footer, header, hgroup, 
 menu, nav, output, ruby, section, summary,
-time, mark, audio, video {
+time, mark, audio, video 
+{
 	margin: 0;
-	padding:0;
-	border:0;
-	font-size:100%;
-	font:inherit;
-	vertical-align:baseline;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
 }
+
+
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
@@ -153,20 +156,15 @@ nav li{
     box-sizing: border-box;
 }
 body {
-    font-family: var(--font-body);
-    color: var(--white);
-    background-color:var(--lavender); 
-    margin: 0;
     display: flex;
-    justify-content: center; /
+    justify-content: center; 
+    margin: 0;
+    background-color: var(--lavender);
 }
 
 .container {
     width: 450px;
-    min-width: 450px;
     max-width: 450px;
-    background-color: var(--purple); 
-    min-height: 100vh;
+    min-width: 450px;
     box-sizing: border-box;
-    overflow-x: hidden; 
 }
