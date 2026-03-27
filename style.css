@@ -76,7 +76,7 @@ table {
 body {
     font-family: var(--font-body);
     color: var(--white);
-    background-color: var(--purple);
+    background-color: var(--lavender);
     margin: 0;
     display: block;
 }
