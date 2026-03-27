@@ -147,3 +147,5 @@ nav li{
 #step {
     background-color: var(--pink);
 }
+@media screen and (max-width: 450px){
+}
