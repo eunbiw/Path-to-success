@@ -1,6 +1,4 @@
 CSS
-/* MOBILE ONLY - max-width 450px */
-@media screen and (max-width: 450px) {
 /* IMPORTED FONTS */
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Kavoon&display=swap');
 
@@ -79,6 +77,8 @@ body {
     font-family: var(--font-body);
     color: var(--white);
     background-color: var(--purple);
+    max-width: 450px;
+    margin: 0 auto;
 
 }
 h1 {
@@ -148,5 +148,4 @@ nav li{
 
 #step {
     background-color: var(--pink);
-}
 }
