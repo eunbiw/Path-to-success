@@ -99,6 +99,8 @@ h4 {
 article {
     background-color: var(--white);
     color: var(--dark-gray);
+    padding: 10px 15px;
+    margin: 10px;
 }
 nav {
     background-color: var(--yellow);
