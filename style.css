@@ -77,8 +77,8 @@ body {
     font-family: var(--font-body);
     color: var(--white);
     background-color: var(--purple);
-    max-width: 450px;
-    margin: 0 auto;
+    max: width 450px;;
+    margin: auto;
 
 }
 h1 {
