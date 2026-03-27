@@ -1,10 +1,7 @@
 CSS
-
 /* CSS BY EUNBI WILSON */
-
 /* IMPORTED FONTS */
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Kavoon&display=swap');
-
 /* CSS RESET */
 /* http://meyerweb.com/eric/tools/css/reset/ ...*/
    v2.0 | 20110126
@@ -64,8 +61,8 @@ table {
     --dark-gray:#1e1e1e;
     --white:#ffffff;
 
-    --font-h1-h2:'kavoon';
-    --font-body:'inter';
+    --font-h1-h2:'Kavoon';
+    --font-body:'Inter';
     --h1-size:3em;
     --nav-h2-size:1.5em;
     --h2-size:2em;
