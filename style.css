@@ -152,3 +152,21 @@ nav li{
     max-width: 450px; 
     box-sizing: border-box;
 }
+body {
+    font-family: var(--font-body);
+    color: var(--white);
+    background-color: #333333; 
+    margin: 0;
+    display: flex;
+    justify-content: center; /
+}
+
+.container {
+    width: 450px;
+    min-width: 450px;
+    max-width: 450px;
+    background-color: var(--purple); 
+    min-height: 100vh;
+    box-sizing: border-box;
+    overflow-x: hidden; 
+}
