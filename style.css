@@ -148,9 +148,8 @@ nav li{
 }
 .container {
     width: 450px;
-    margin: 0 auto;
-    box-sizing: border-box;
-    transform: scale(0.5); 
-    transform-origin: top center;
+    margin: 0 auto;       
+    background-color: var(--purple); 
+    min-height: 100vh;    
+    overflow: hidden;     
 }
-
