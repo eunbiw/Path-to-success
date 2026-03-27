@@ -252,10 +252,6 @@ a.button {
     cursor: pointer;
     width: auto;                     
 }
-.button-wrapper {
-    display: block;        
-    text-align: left;      
-}
 footer {
     text-align: center;
     font-size: 12px; 
