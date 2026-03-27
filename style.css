@@ -236,14 +236,19 @@ td {
     padding: 8px; 
     border-top: 1px #ffffff;
 }
-button {
-    background-color: var(--white);
+a.button {
+    display: inline-block;           
+    padding: 12px 24px;              
+    background-color: var(--yellow);
     color: var(--dark-gray);
-    padding: 12px 24px; 
-    border: 2px solid var(--dark-gray);
-    border-radius: 10px;
     font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 8px;
+    border: 2px solid var(--dark-gray);
+    transition: all 0.2s ease;
     cursor: pointer;
+    width: auto;                     /* ensure it doesn’t stretch */
 }
 footer {
     text-align: center;
