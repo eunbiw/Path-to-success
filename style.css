@@ -77,9 +77,6 @@ body {
     font-family: var(--font-body);
     color: var(--white);
     background-color: var(--purple);
-    max: width 450px;;
-    margin: auto;
-
 }
 h1 {
     font-family: var(--font-h1-h2);
@@ -148,4 +145,9 @@ nav li{
 
 #step {
     background-color: var(--pink);
+}
+.container {
+    width: 450px;
+    margin: 0 auto;
+    box-sizing: border-box;
 }
