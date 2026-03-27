@@ -133,7 +133,7 @@ nav li{
     background-color: var(--teal);
 }
 .lavender {
-    background-color: var(--purple);
+    background-color: var(--lavender);
 }
 .yellow{
     background-color: var(--yellow);
@@ -155,7 +155,7 @@ nav li{
 body {
     font-family: var(--font-body);
     color: var(--white);
-    background-color: #333333; 
+    background-color:var(--lavender); 
     margin: 0;
     display: flex;
     justify-content: center; /
