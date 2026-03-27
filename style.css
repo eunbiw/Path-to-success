@@ -79,8 +79,6 @@ body {
     background-color: var(--purple);
     margin: 0;
     display: block;
-    justify-content: center; 
-    margin: 0;
 }
 h1 {
     font-family: var(--font-h1-h2);
@@ -195,6 +193,12 @@ nav ul {
     background-color: var(--purple);
     margin: 0 auto;
     padding: 16px;
+}
+body {
+    display: flex;
+    justify-content: center; 
+    margin: 0;
+    background-color: var(--lavender);
 }
 header {
     text-align: center;
