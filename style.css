@@ -150,4 +150,7 @@ nav li{
     width: 450px;
     margin: 0 auto;
     box-sizing: border-box;
+    transform: scale(0.5); 
+    transform-origin: top center;
 }
+
