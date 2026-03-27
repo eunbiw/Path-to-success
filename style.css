@@ -66,7 +66,7 @@ table {
     --dark-gray:#1e1e1e;
     --white:#ffffff;
 
-    --font-h1-h2: 'Kavoon', cursive;
+    --font-h1-h2: 'Kavoon';
     --font-body: 'Inter', sans-serif;
     --h1-size:3em;
     --nav-h2-size:1.5em;
@@ -149,12 +149,7 @@ nav li{
 #step {
     background-color: var(--pink);
 }
-.container {
-    width: 450px;
-    min-width: 450px;
-    max-width: 450px; 
-    box-sizing: border-box;
-}
+
 body {
     display: flex;
     justify-content: center; 
@@ -167,4 +162,5 @@ body {
     max-width: 450px;
     min-width: 450px;
     box-sizing: border-box;
+    background-color: var(--purple);
 }
