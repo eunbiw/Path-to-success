@@ -63,8 +63,8 @@ table {
     --dark-gray:#1e1e1e;
     --white:#ffffff;
 
-    --font-h1-h2:'Kavoon';
-    --font-body:'Inter';
+    --font-h1-h2: 'Kavoon', cursive;
+    --font-body: 'Inter', sans-serif;
     --h1-size:3em;
     --nav-h2-size:1.5em;
     --h2-size:2em;
