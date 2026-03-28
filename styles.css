@@ -170,7 +170,7 @@ nav ul {
 
 #step {
     background-color: var(--pink) !important;
-    text-align: center;
+    text-align: left;
     padding: 32px 16px;
     margin-bottom: 16px;
     border-radius: 12px;
@@ -265,4 +265,7 @@ body {
     background-color: var(--lavender);
     margin: 0;
     display: block;
+}
+p span{
+    margin-right: 16px;
 }
