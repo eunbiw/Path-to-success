@@ -168,7 +168,17 @@ nav ul {
 }
 
 
-
+#step {
+    background-color: var(--pink);
+    text-align: center;
+    padding: 32px 16px;
+    margin-bottom: 16px;
+    border-radius: 12px;
+}
+#step p {
+    margin: 16px 0; 
+    font-size: 14px; 
+}
 .container {
     width: 450px;
     max-width: 450px;
@@ -255,16 +265,4 @@ body {
     background-color: var(--lavender);
     margin: 0;
     display: block;
-}
-#step {
-    background-color: var(--pink);
-    text-align: center;
-    padding: 32px 16px;
-    margin-bottom: 16px;
-    border-radius: 12px;
-}
-#step p {
-    margin: 16px 0; 
-    font-size: 14px; 
-    background-color: var(--pink);
 }
