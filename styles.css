@@ -237,8 +237,8 @@ td {
     border-top: 1px #ffffff;
 }
 a.button {
-    display: inline-block;        
-    block-size: auto;      
+    display: block;        
+    width: max-content;
     padding: 14px 28px;                 
     background-color: var(--white);    
     color: var(--dark-gray);
@@ -249,8 +249,8 @@ a.button {
     border: 2px solid var(--dark-gray);
     transition: all 0.3s ease;
     cursor: pointer;
-    margin-top: 16px;     
-    align-content: center;              
+    margin-top: 16px;       
+    text-align: center;            
 }
 footer {
     text-align: center;
