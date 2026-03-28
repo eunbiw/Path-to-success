@@ -266,6 +266,6 @@ body {
     margin: 0;
     display: block;
 }
-p span{
-    margin-right: 16px;
+footer a{
+    margin: 0 8px;
 }
