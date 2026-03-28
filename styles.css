@@ -242,8 +242,7 @@ td {
     border-top: 1px #ffffff;
 }
 a.button {
-    display: inline-block;        
-    padding: 14px 28px;                 
+    display: block;        
     background-color: var(--white);    
     color: var(--dark-gray);
     font-weight: bold;
