@@ -216,11 +216,11 @@ section {
     width: 75% !important;
     margin: 16px auto; 
     background-color: var(--purple)!important;
-    color: var(--dark-gray);
-    border-radius: 8px;
-    border-color: var(--yellow);
-    overflow: hidden;
-    border: 2px solid var(--yellow);
+    color: var(--dark-gray)!important;
+    border-radius: 8px !important;
+    border-color: var(--yellow)!important;
+    overflow: hidden !important;
+    border: 2px solid var(--yellow)!important;
 }
 #pricing td {
     padding: 12px; 
