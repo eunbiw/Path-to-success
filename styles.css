@@ -176,16 +176,14 @@ nav ul {
     width: 75% ;
     margin: 16px auto; 
     background-color: var(--white);
-    color: var(--dark-gray);
-    border-radius: 8px ;
-    border-color: var(--yellow);
-    overflow: hidden ;
     border: 2px solid var(--yellow);
+    border-collapse: separate;
+    border-spacing: 0;
+    color: var(--dark-gray);
 }
 #pricing td {
-    padding: 12px; 
+    padding: 8px 12px;
     border-top: 1px solid #ddd;
-    background-color: var(--white);
 }
 #pricing th {
     background-color: var(--yellow);
