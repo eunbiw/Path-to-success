@@ -207,6 +207,9 @@ header p {
 }
 section {
     padding: 24px 16px; }
+#pricing {
+    background-color: var(--purple);
+}
 table {
     width: 60% ;
     margin: 16px auto; 
