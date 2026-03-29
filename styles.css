@@ -191,6 +191,9 @@ nav ul {
     font-weight: bold;
     text-align: left;
 }
+#pricing h3{
+    text-align: left;
+}
 #step {
     background-color: var(--pink) !important;
     text-align: left;
