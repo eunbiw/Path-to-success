@@ -207,6 +207,26 @@ header p {
 }
 section {
     padding: 24px 16px; }
+table {
+    width: 60% ;
+    margin: 16px auto; 
+    background-color: var(--white);
+    color: var(--dark-gray);
+    border-radius: 8px;
+    border-color: var(--yellow);
+    overflow: hidden;
+    border: 2px solid var(--yellow);
+}
+td {
+    padding: 12px; 
+    border-top: 1px solid #ddd;
+}
+th {
+    background-color: var(--yellow);
+    padding: 10px; 
+    font-weight: bold;
+    text-align: left;
+}
 article {
     border-radius: 12px;
     padding: 16px; 
@@ -225,26 +245,6 @@ article span {
     font-size: 32px; 
     display: block;
     margin-bottom: 8px; 
-}
-table {
-    width: 60% !important;
-    margin: 16px auto; 
-    background-color: var(--white);
-    color: var(--dark-gray);
-    border-radius: 8px;
-    border-color: var(--yellow);
-    overflow: hidden;
-    border: 2px solid var(--yellow);
-}
-td {
-    padding: 12px; 
-    border-top: 1px solid #ddd;
-}
-th {
-    background-color: var(--yellow);
-    padding: 10px; 
-    font-weight: bold;
-    text-align: left;
 }
 a.button {
     display: inline-block;        
