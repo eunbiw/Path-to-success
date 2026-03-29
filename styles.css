@@ -213,7 +213,7 @@ section {
 #pricing table {
     width: 75% !important;
     margin: 16px auto; 
-    background-color: var(--purple);
+    background-color: var(--purple)!important;
     color: var(--dark-gray);
     border-radius: 8px;
     border-color: var(--yellow);
