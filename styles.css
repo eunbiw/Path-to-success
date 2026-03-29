@@ -227,7 +227,7 @@ article span {
     margin-bottom: 8px; 
 }
 table {
-    width: 60%;
+    width: 60% !important;
     margin: 16px auto; 
     background-color: var(--white);
     color: var(--dark-gray);
