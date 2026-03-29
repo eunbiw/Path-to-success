@@ -167,7 +167,31 @@ nav ul {
     background-color: var(--white);
 }
 
-
+#pricing {
+    background-color: var(--purple) ;
+    padding: 32px 16px;
+    text-align: center;
+}
+#pricing table {
+    width: 75% ;
+    margin: 16px auto; 
+    background-color: var(--purple);
+    color: var(--dark-gray);
+    border-radius: 8px ;
+    border-color: var(--yellow);
+    overflow: hidden ;
+    border: 2px solid var(--yellow);
+}
+#pricing td {
+    padding: 12px; 
+    border-top: 1px solid #ddd;
+}
+#pricing th {
+    background-color: var(--yellow);
+    padding: 10px; 
+    font-weight: bold;
+    text-align: left;
+}
 #step {
     background-color: var(--pink) !important;
     text-align: left;
@@ -207,31 +231,7 @@ header p {
 }
 section {
     padding: 24px 16px; }
-#pricing {
-    background-color: var(--purple) !important;
-    padding: 32px 16px;
-    text-align: center;
-}
-#pricing table {
-    width: 75% !important;
-    margin: 16px auto; 
-    background-color: var(--purple)!important;
-    color: var(--dark-gray)!important;
-    border-radius: 8px !important;
-    border-color: var(--yellow)!important;
-    overflow: hidden !important;
-    border: 2px solid var(--yellow)!important;
-}
-#pricing td {
-    padding: 12px; 
-    border-top: 1px solid #ddd;
-}
-#pricing th {
-    background-color: var(--yellow);
-    padding: 10px; 
-    font-weight: bold;
-    text-align: left;
-}
+
 article {
     border-radius: 12px;
     padding: 16px; 
