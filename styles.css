@@ -181,7 +181,6 @@ nav ul {
     border-color: var(--yellow);
     overflow: hidden ;
     border: 2px solid var(--yellow);
-    border-radius: 0%;
 }
 #pricing td {
     padding: 12px; 
