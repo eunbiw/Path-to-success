@@ -211,7 +211,7 @@ section {
     background-color: var(--purple) !important;
 }
 #pricing table {
-    width: 80% !important;
+    width: 75% !important;
     margin: 16px auto; 
     background-color: var(--purple);
     color: var(--dark-gray);
