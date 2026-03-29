@@ -170,7 +170,12 @@ nav ul {
 #pricing {
     background-color: var(--purple) ;
     padding: 32px 16px;
-    text-align: center;
+}
+#pricing h3{
+    text-align: left;
+}
+#pricing h2{
+    text-align: left;
 }
 #pricing table {
     width: 75% ;
@@ -191,9 +196,7 @@ nav ul {
     font-weight: bold;
     text-align: left;
 }
-#pricing h3{
-    text-align: left;
-}
+
 #step {
     background-color: var(--pink) !important;
     text-align: left;
