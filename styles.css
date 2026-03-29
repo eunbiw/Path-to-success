@@ -175,7 +175,7 @@ nav ul {
 #pricing table {
     width: 75% ;
     margin: 16px auto; 
-    background-color: var(--purple);
+    background-color: var(--white);
     color: var(--dark-gray);
     border-radius: 8px ;
     border-color: var(--yellow);
