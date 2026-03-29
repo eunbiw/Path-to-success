@@ -227,11 +227,12 @@ article span {
     margin-bottom: 8px; 
 }
 table {
-    width: 100%;
-    margin: 16px 0; 
+    width: 60%;
+    margin: 16px auto; 
     background-color: var(--white);
     color: var(--dark-gray);
     border-radius: 8px;
+    border-color: var(--yellow);
     overflow: hidden;
     border: 2px solid var(--yellow);
 }
