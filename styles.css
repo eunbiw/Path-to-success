@@ -185,7 +185,8 @@ nav ul {
 }
 #pricing td {
     padding: 12px; 
-    border-top: 1px solid #ddd !important;
+    border-top: 1px solid #ddd;
+    background-color: var(--white);
 }
 #pricing th {
     background-color: var(--yellow);
