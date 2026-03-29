@@ -233,16 +233,18 @@ table {
     color: var(--dark-gray);
     border-radius: 8px;
     overflow: hidden;
+    border: 2px solid var(--yellow);
 }
 th {
     background-color: var(--yellow);
-    padding: 8px; 
+    padding: 10px; 
+    font-weight: bold;
     text-align: left;
 }
 
 td {
-    padding: 8px; 
-    border-top: 1px #ffffff;
+    padding: 10px; 
+    border-top: 1px solid;
 }
 a.button {
     display: inline-block;        
