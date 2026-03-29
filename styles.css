@@ -236,8 +236,8 @@ table {
     border: 2px solid var(--yellow);
 }
 td {
-    padding: 10px; 
-    border-top: 1px solid;
+    padding: 12px; 
+    border-top: 1px solid #ddd;
 }
 th {
     background-color: var(--yellow);
